@@ -6,7 +6,7 @@ SB Curated is a dataset for research in automated reasoning and testing of smart
 
 SmartBugs Curated provides a collection of vulnerable Solidity smart contracts organized according to the [DASP taxonomy](https://dasp.co):
 
-| Vulnerability | Description | Level |
+| Vulnerability | Description | Level |sdasd
 | --- | --- | -- |
 | [Reentrancy](https://github.com/smartbugs/smartbugs-curated/tree/main/dataset/reentrancy) | Reentrant function calls make a contract to behave in an unexpected way | Solidity |
 | [Access Control](https://github.com/smartbugs/smartbugs-curated/tree/main/dataset/access_control) | Failure to use function modifiers or use of tx.origin | Solidity |
