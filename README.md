@@ -1,9 +1,9 @@
 # SB Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts
 SB Curated is a dataset for research in automated reasoning and testing of smart contracts written in Solidity, the primary language used in Ethereum. It was developed as part of the [execution framework SmartBugs](https://github.com/smartbugs/smartbugs), which allows the possibility to integrate tools easily, so that they can be automatically compared (and their results reproduced). To the best of our knowledge, SmartBugs Curated is the largest dataset of its kind.
-
+a
 
 ## Vulnerabilities
-
+sdaswd
 SmartBugs Curated provides a collection of vulnerable Solidity smart contracts organized according to the [DASP taxonomy](https://dasp.co):
 
 | Vulnerability | Description | Level |
