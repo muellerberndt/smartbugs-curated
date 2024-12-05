@@ -16,7 +16,7 @@ SmartBugs Curated provides a collection of vulnerable Solidity smart contracts o
 | [Bad Randomness](https://github.com/smartbugs/smartbugs-curated/tree/main/dataset/bad_randomness) | Malicious miner biases the outcome | Blockchain |
 | [Front Running](https://github.com/smartbugs/smartbugs-curated/tree/main/dataset/front_running) | Two dependent transactions that invoke the same contract are included in one block | Blockchain |
 | [Time Manipulation](https://github.com/smartbugs/smartbugs-curated/tree/main/dataset/time_manipulation) | The timestamp of the block is manipulated by the miner | Blockchain |
-| [Short Addresses](https://github.com/smartbugs/smartbugs-curated/tree/main/dataset/short_addresses) | EVM itself accepts incorrectly padded arguments | EVM |
+| [Short Addresses](https://github.com/smartbugs/smartbugs-curated/tree/main/dataset/short_addresses) | EVasdasdasdM itself accepts incorrectly padded arguments | EVM |
 
 ## Example
 Contracts are annotated with a comment containing information about their source (`@source`), author (`@author`), and line numbers of where vulnerabilities are reported (`@vulnerable_at_lines`). For each identified line, a comment with the type of the vulnerability is added (`// <yes> <report> CATEGORY`).
